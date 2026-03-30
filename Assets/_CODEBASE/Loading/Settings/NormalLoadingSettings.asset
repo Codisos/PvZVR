@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 15112e9d613ada141996de316219eae3, type: 3}
+  m_Name: NormalLoadingSettings
+  m_EditorClassIdentifier: 
+  forcedWaitTime:
+    RefType: 0
+    UseConstant: 1
+    ConstantValue: 5
+    Variable: {fileID: 0}
+  secondsToFadeCamera:
+    RefType: 1
+    UseConstant: 0
+    ConstantValue: 0
+    Variable: {fileID: 11400000, guid: fb402430e584c6649b5fcfa51de4c525, type: 2}
+  loadSceneName: LOADING SCENE
