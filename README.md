@@ -4,9 +4,9 @@ Player can use his weapon to plant the plants or alternatively to shoot zombies 
 
 <img width="1920" height="1080" alt="s3" src="https://github.com/user-attachments/assets/c4d0326e-5bd4-4d8d-9fb9-14ecfb6bd8f6" />
 <img width="1920" height="1080" alt="s4" src="https://github.com/user-attachments/assets/04db7c0d-d047-4348-9a01-22ae2b66a6de" />
-![PvZ1](https://github.com/user-attachments/assets/9f64646b-c95a-41ef-a4b4-82c2d46ea320)
-![PvZ2](https://github.com/user-attachments/assets/3d7137bf-0321-4a58-b08b-85100985157b)
-![PvZ3](https://github.com/user-attachments/assets/72600935-c2bb-4882-aadd-3f5e8dfacdad)
-![cherry](https://github.com/user-attachments/assets/e4235ddf-519f-4872-a3dd-802f8eeaa4d1)
-
 <img width="1920" height="1080" alt="s-menu" src="https://github.com/user-attachments/assets/3ed02f7d-f290-4de9-b837-a8e78d468eca" />
+
+![PvZ1](https://github.com/user-attachments/assets/dcc77a65-132a-46c7-a7b0-1550be07dda1)
+![PvZ2](https://github.com/user-attachments/assets/2445cbaf-3bf9-46c2-80cc-51f13fe96e4f)
+![PvZ3](https://github.com/user-attachments/assets/fa1c4fa5-c329-42cd-a8cd-f73e6c708bc0)
+![cherry](https://github.com/user-attachments/assets/5896062f-ce2e-40f2-9484-36fe91cc1ea1)
