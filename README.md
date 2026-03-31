@@ -3,3 +3,4 @@ Player can use his weapon to plant the plants or alternatively to shoot zombies 
 
 <img width="1920" height="1080" alt="s3" src="https://github.com/user-attachments/assets/c4d0326e-5bd4-4d8d-9fb9-14ecfb6bd8f6" />
 <img width="1920" height="1080" alt="s4" src="https://github.com/user-attachments/assets/04db7c0d-d047-4348-9a01-22ae2b66a6de" />
+<img width="1920" height="1080" alt="s-menu" src="https://github.com/user-attachments/assets/3ed02f7d-f290-4de9-b837-a8e78d468eca" />
