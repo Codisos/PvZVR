@@ -1,3 +1,4 @@
+(2025)
 A little VR project with set number of waves per level, randomized zombie spawn position, and different types of zombies and plants.
 Player can use his weapon to plant the plants or alternatively to shoot zombies if they get too close to losing. Implemented are also standard things like teleport locomotion or haptic feedback.
 
